@@ -7,7 +7,7 @@ int main() {
 	const int WIDTH = 5;
 	const char NEWLINE = '\n'
 	int area
-
+	//do that constant stuff!
 	area = LENGTH * WIDTH
 	cout << area;
 	cout << NEWLINE;
